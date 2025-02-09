@@ -1,4 +1,5 @@
 const API_URL = 'http://localhost:5000/api';
+export const API_BASE_URL = "https://sip-and-chat.onrender.com";
 
 export const api = {
   // Public endpoints
